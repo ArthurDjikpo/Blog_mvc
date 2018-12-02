@@ -1,0 +1,6 @@
+Bonjour, 
+Il faut importer le fichier sql: test.sql dans une base de données, puis rentrer votre mot de passe pour la connexion à la base de données dans le fichier Manager.php, le nom de la base de donnée est test à modifier si vous avez utilisé un autre nom à la base de données.
+
+La modification change le commentaire et l'heure mais reste dans l'ordre d'arriver.
+
+Bonne continuation.
